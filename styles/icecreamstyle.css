@@ -1,0 +1,32 @@
+p,#products {
+	color: #86592d;
+	width: 500px;
+	font-size: 16;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #86592d;
+	font-size: 60px;
+	text-align: center;
+	text-shadow: 1px 1px 1px black;
+}
+img {
+	width: 300px;
+	height: 300px;
+	display: block;
+	margin: 0 auto;
+}
+html {
+	font-size: 10px;
+	font-family: 'Chango', cursive;
+	background-color: ;
+}
+body {
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 5px solid #86592d;
+}
